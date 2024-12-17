@@ -33,13 +33,13 @@ Autor del repositorio:
 
 [Video 5 - DC Sweep](https://youtu.be/5fZ7GgcgDa0)
 
-[Video 6 - Noise]()
+[Video 6 - Noise (en inglés)](https://www.youtube.com/watch?v=hnhM3ejCjTw&ab_channel=trevortjes%2FTheRepairCaf%C3%A9)
 
 [Video 7 - DC Transfer](https://youtu.be/5-CfX2qQSgs)
 
 [Video 8 - DC Operating Point](https://youtu.be/Q_F5ED8XU7s)
 
-[Video 9 - Transient Frequency Response]()
+[Video 9 - Transient Frequency Response (en japonés)](https://www.youtube.com/watch?v=eB5xjCYfo5Y&t=198s&ab_channel=SankyoshaLTspiceTIPSMovie)
 
 [Video 10 - Comando Step](https://youtu.be/qyRVwmlB97M)
 
