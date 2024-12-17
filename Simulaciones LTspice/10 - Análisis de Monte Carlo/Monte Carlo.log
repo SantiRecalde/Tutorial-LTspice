@@ -1,0 +1,88 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Usuario\OneDrive\Escritorio\Facultad\2024 2do semestre\SDRA\Simulaciones LTspice\Comando {mc} Monte Carlo\Monte Carlo.asc
+Start Time: Mon Dec 16 01:12:44 2024
+solver = Normal
+Maximum thread count: 4
+
+
+
+.OP point found by inspection.
+.step run=1
+
+
+
+.step run=2
+
+
+
+.step run=3
+
+
+
+.step run=4
+
+
+
+.step run=5
+
+
+
+.step run=6
+
+
+
+.step run=7
+
+
+
+.step run=8
+
+
+
+.step run=9
+
+
+
+.step run=10
+
+
+
+.step run=11
+
+
+
+.step run=12
+
+
+
+.step run=13
+
+
+
+.step run=14
+
+
+
+.step run=15
+
+
+
+.step run=16
+
+
+
+.step run=17
+
+
+
+.step run=18
+
+
+
+.step run=19
+tnom = 27
+temp = 27
+method = modified trap
+.step run=20
+Total elapsed time: 0.356 seconds.
+

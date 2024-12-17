@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Usuario\OneDrive\Escritorio\Facultad\2024 2do semestre\SDRA\Simulaciones LTspice\Todas las simulaciones.asc
+Start Time: Sun Dec 15 12:04:59 2024
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.075 seconds.
+

@@ -1,0 +1,32 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Usuario\OneDrive\Escritorio\Facultad\2024 2do semestre\SDRA\Simulaciones LTspice\DC Operating Point\Draft1.asc
+Start Time: Sun Dec 15 21:05:01 2024
+solver = Normal
+Maximum thread count: 4
+
+
+
+.OP point found by inspection.
+.step r=100
+
+
+
+.step r=1000
+
+
+
+.step r=10000
+
+
+
+.step r=100000
+
+
+
+.step r=1000000
+tnom = 27
+temp = 27
+method = modified trap
+.step r=10000000
+Total elapsed time: 0.272 seconds.
+

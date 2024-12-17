@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Usuario\OneDrive\Escritorio\Facultad\2024 2do semestre\SDRA\Utilización de redes\Ejemplo completo.asc
+Start Time: Sat Dec 14 18:42:45 2024
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.234 seconds.
+
