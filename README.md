@@ -39,7 +39,7 @@ Autor del repositorio:
 
 [Video 8 - DC Operating Point](https://youtu.be/Q_F5ED8XU7s)
 
-[Video 9 - Transient Frequency Response (en japonés)](https://www.youtube.com/watch?v=eB5xjCYfo5Y&t=198s&ab_channel=SankyoshaLTspiceTIPSMovie)
+[Video 9 - Transient Frequency Response (en japonés)](https://www.youtube.com/watch?v=eB5xjCYfo5Y)
 
 [Video 10 - Comando Step](https://youtu.be/qyRVwmlB97M)
 
